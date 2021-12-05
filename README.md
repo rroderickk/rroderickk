@@ -5,7 +5,7 @@
 - 📚 I normally like to learn new things everyday 
 - 🌱 I’m currently learning everything that is put in front and back...end.  ...
 - 💞️ I’m looking to collaborate on all ...
-- 📕 2021/2022 Goals: Contribute to open source projects, get confortable with react or nodejs or python, get my first job.
+- 📕 2021/2022 Goals: Contribute to open source projects, get confortable with react or nodejs or python, **get my first job**.
 - 💼 You can see this [checkThisRepo](https://github.com/rroderickk/node.git) 
 - Random Fact: I like tech, programming, crypto, gaming, blogging, ciclyng, street workout.
 #CHECKEA MI BLOG https://rroderickk.github.io/
