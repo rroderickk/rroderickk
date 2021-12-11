@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools:
 
 <div align="left"> 
+  <img alt="Git" width="30px" src="https://nodejs.org/static/images/logo.svg">
   <img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
