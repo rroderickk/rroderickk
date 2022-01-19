@@ -1,13 +1,16 @@
-# 👋 Hi, I’m @rodrigo moreno
-- 👀 I’m interested in programming python, frontend, blogging, AI, Machine learning, and MOAR....
-- 🔨 Learning node/react/javscript/jsx
-- 🎲 In my free time im learning frontend graphics designer and python and angular
-- 📚 I normally like to learn new things everyday 
-- 🌱 I’m currently learning everything that is put in front and back...end.  ...
-- 💞️ I’m looking to collaborate on all ...
-- 📕 2021/2022 Goals: Contribute to open source projects, get confortable with react or nodejs or python, **get my first job**.
+```
+;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
+⠄⠄⠄⠄⠄⠄⠄⢀⣠⣶⣾⣿⣶⣦⣤⣀⠄⢀⣀⣤⣤⣤⣤⣄⠄⠄⠄⠄⠄⠄- 👀 I’m interested in Javascript, Python, React, Node,
+⠄⠄⠄⠄⠄⢀⣴⣿⣿⣿⡿⠿⠿⠿⠿⢿⣷⡹⣿⣿⣿⣿⣿⣿⣷⠄⠄⠄⠄⠄- 📚 I normally like to learn new things everyday 
+⠄⠄⠄⠄⠄⣾⣿⣿⣿⣯⣵⣾⣿⣿⡶⠦⠭⢁⠩⢭⣭⣵⣶⣶⡬⣄⣀⡀⠄⠄- 🎲 In my free time im learning frontend graphics designer
+⠄⠄⠄⡀⠘⠻⣿⣿⣿⣿⡿⠟⠩⠶⠚⠻⠟⠳⢶⣮⢫⣥⠶⠒⠒⠒⠒⠆⠐⠒  💞️ I’m looking to collaborate on all ...
+⠄⢠⣾⢇⣿⣿⣶⣦⢠⠰⡕⢤⠆⠄⠰⢠⢠⠄⠰⢠⠠⠄⡀⠄⢊⢯⠄⡅⠂⠄  📕 2021/2022 Goals: Contribute to open source projects, 
+⢠⣿⣿⣿⣿⣿⣿⣿⣏⠘⢼⠬⠆⠄⢘⠨⢐⠄⢘⠈⣼⡄⠄⠄⡢⡲⠄⠂⠠⠄  get confortable with react or nodejs or python, **get my first job**.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣥⣀⡁⠄⠘⠘⠘⢀⣠⣾⣿⢿⣦⣁⠙⠃⠄⠃⠐⣀  Random Fact: I like tech, programming, crypto, gaming, blogging, ciclyng.
+;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
+;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
+```
 - 💼 You can see this [checkThisRepo](https://github.com/rroderickk/Node/blob/master/basicJS3.js) 
-- Random Fact: I like tech, programming, crypto, gaming, blogging, ciclyng, street workout.
 #CHECKEA MI BLOG https://rroderickk.github.io/
 <!---
 rroderickk/rroderickk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
