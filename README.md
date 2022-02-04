@@ -10,7 +10,7 @@
 ;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
 ;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
 ```
-- 💼 You can see this [checkThisRepo](https://github.com/rroderickk/Node/blob/master/basicJS3.js) 
+- 💼 You can see this [checkThisRepo](https://github.com/rroderickk/nodemachine) 
 #CHECKEA MI BLOG https://rroderickk.github.io/
 <!---
 rroderickk/rroderickk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
