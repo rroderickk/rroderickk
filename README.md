@@ -10,6 +10,7 @@
 ;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
 ;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
 ```
+- All my repos are under constant construction, they are also my notes, every time I learn something I apply it, so if you see comments or console.logs you already know why :D
 - 💼 You can see this [checkThisRepo](https://github.com/rroderickk/nodemachine) 
 #CHECKEA MI BLOG https://rroderickk.github.io/
 <!---
