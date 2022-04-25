@@ -1,22 +1,6 @@
-```
-;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
-⠄⠄⠄⠄⠄⠄⠄⢀⣠⣶⣾⣿⣶⣦⣤⣀⠄⢀⣀⣤⣤⣤⣤⣄⠄⠄⠄⠄⠄⠄- 👀 I’m interested in Javascript, Python, React, Node,
-⠄⠄⠄⠄⠄⢀⣴⣿⣿⣿⡿⠿⠿⠿⠿⢿⣷⡹⣿⣿⣿⣿⣿⣿⣷⠄⠄⠄⠄⠄- 📚 I normally like to learn new things everyday 
-⠄⠄⠄⠄⠄⣾⣿⣿⣿⣯⣵⣾⣿⣿⡶⠦⠭⢁⠩⢭⣭⣵⣶⣶⡬⣄⣀⡀⠄⠄- 🎲 In my free time im learning frontend graphics designer
-⠄⠄⠄⡀⠘⠻⣿⣿⣿⣿⡿⠟⠩⠶⠚⠻⠟⠳⢶⣮⢫⣥⠶⠒⠒⠒⠒⠆⠐⠒  💞️ I’m looking to collaborate on all ...
-⠄⢠⣾⢇⣿⣿⣶⣦⢠⠰⡕⢤⠆⠄⠰⢠⢠⠄⠰⢠⠠⠄⡀⠄⢊⢯⠄⡅⠂⠄  📕 2021/2022 Goals: Contribute to open source projects, 
-⢠⣿⣿⣿⣿⣿⣿⣿⣏⠘⢼⠬⠆⠄⢘⠨⢐⠄⢘⠈⣼⡄⠄⠄⡢⡲⠄⠂⠠⠄  get confortable with react or nodejs or python, **get my first job**.
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣥⣀⡁⠄⠘⠘⠘⢀⣠⣾⣿⢿⣦⣁⠙⠃⠄⠃⠐⣀  Random Fact: I like tech, programming, crypto, gaming, blogging, ciclyng.
-;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
-;$$,$$;######; $$,$$;; $$,$$;♦♦♦♦; $$,$$;
-```
-- All my repos are under constant construction, they are also my notes, every time I learn something I apply it, so if you see comments or console.logs you already know why :D
-- 💼 You can see this [checkThisRepo](https://github.com/rroderickk/nodemachine) 
-#CHECKEA MI BLOG https://rroderickk.github.io/
-<!---
-rroderickk/rroderickk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rroderickk&theme=onedark">
+</p>
 
 ### 📫 Connect with me:
 <div align="left"> 
