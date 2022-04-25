@@ -34,7 +34,6 @@
   <img alt="ReactBoostrap" width="30px" src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg">
   <img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img  alt="Angular" width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
   <img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
   
 </div>
