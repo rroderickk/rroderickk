@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rroderickk&theme=onedark">
-</p>
+<a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rroderickk&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+
 
 ### 📫 Connect with me:
 <div align="left"> 
@@ -43,3 +45,5 @@
 [instagram]: https://instagram.com/rodrigomorenop
 [linkedin]: https://linkedin.com/in/rodrigo-moreno-rr
 [gmail]: mailto:rroderickk@gmail.com
+
+[//]: <> (<p align="center">  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rroderickk&theme=onedark"> </p>)
