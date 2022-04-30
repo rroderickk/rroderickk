@@ -29,7 +29,8 @@
 ### Languages and Tools:
 
 <div align="left"> 
-  <img alt="Git" width="30px" src="https://nodejs.org/static/images/logo.svg">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 34px> 
+  <img alt="Git" width="44px" src="https://nodejs.org/static/images/logo.svg">
   <img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -41,7 +42,7 @@
   <img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-  
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 34px> 
 </div>
 
 <br/>
