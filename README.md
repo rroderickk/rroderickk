@@ -48,6 +48,7 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 34px> 
 </div>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=rroderickk&theme=react-dark&hide_title=true"/>-->
+<img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=rroderickk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <br/>
 
 [instagram]: https://instagram.com/rodrigomorenop
