@@ -32,10 +32,8 @@
 ### Languages and Tools:
 
 <div align="left"> 
-
-  <div width="4px"> 
-    <img width="4px" style="object-fit:contain" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" /> 
-  </div> 
+  <img width="4%" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" /> 
+  <br/>
 
   <img alt="Git" width="44px" src="https://nodejs.org/static/images/logo.svg">
   <img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
