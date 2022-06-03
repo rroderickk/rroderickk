@@ -1,7 +1,7 @@
 
 <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
   <a href="https://rroderickk.github.io/the-substance" rel="noopener noreferer" target="_blank">
-    <img width="100%" src="https://github.com/rroderickk/Deploy_library/blob/main/assets/the-substance.png?raw=true"/>
+    <img width="100%" src="https://github.com/rroderickk/Deploy_library/blob/main/assets/the-substance.png.jpg?raw=true"/>
   </a>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=5001&color=dc143c&background=FF1F0000&center=false&vCenter=true&lines=I'm+Rroderickk;+Aka+@CheatModes4;I+use+Arch+by+the+way+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4)](https://git.io/typing-svg)
