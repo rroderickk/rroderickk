@@ -70,3 +70,7 @@
 [gmail]: mailto:rroderickk@gmail.com
 
 [//]: <> (<p align="center">  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rroderickk&theme=onedark"> </p>)
+
+<p align="center">
+<a href="https://app.daily.dev/CheatModes4"><img src="https://api.daily.dev/devcards/023b008efa944fddafa11b077bea9c3d.png?r=tum" width="400" alt="RodrigoMoreno's Dev Card"/></a>
+</p>
