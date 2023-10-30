@@ -56,15 +56,6 @@
 
 ## Contributes
 
-
-<img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=rroderickk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 [instagram]: https://instagram.com/rodrigomorenop
 [linkedin]: https://linkedin.com/in/rodrigo-moreno-rr
 [gmail]: mailto:rroderickk@gmail.com
