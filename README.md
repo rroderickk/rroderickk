@@ -43,7 +43,6 @@
   <img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-  <img alt="ReactBoostrap" width="30px" src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg">
   <img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
@@ -61,7 +60,9 @@
 [gmail]: mailto:rroderickk@gmail.com
 
 [//]: <> (<p align="center">  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rroderickk&theme=onedark"> </p>)
-
+<p align='center'>
+<a href="https://app.daily.dev/MrShortcut"><img src="https://api.daily.dev/devcards/c1618d45fadb4b1a945f6b0f7a625dd4.png?r=v1w" width="400" alt="MrShortcut's Dev Card"/></a>
+</p>
 <p align="center">
 <a href="https://app.daily.dev/CheatModes4"><img src="https://api.daily.dev/devcards/023b008efa944fddafa11b077bea9c3d.png?r=tum" width="400" alt="RodrigoMoreno's Dev Card"/></a>
 </p>
